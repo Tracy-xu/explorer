@@ -1,6 +1,6 @@
 # Traveller
 
-Traveller 一个支持 GZip 压缩、缓存、Range 分块的静态资源服务器。
+Traveller 一个支持 GZip 压缩、缓存、Range 分块、文件目录索引的静态资源服务器。
 
 ## Installation
 
