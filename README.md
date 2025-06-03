@@ -6,6 +6,8 @@ Traveller 一个支持 GZip 压缩、缓存、Range 分块的静态资源服务�
 
 ```bash
 npm install @t-mac/traveller -g
+# or
+npx -p @t-mac/traveller traveller
 ```
 
 ## Execution

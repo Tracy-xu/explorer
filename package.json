@@ -1,8 +1,8 @@
 {
   "name": "@t-mac/traveller",
   "version": "1.0.3",
-  "description": "",
-  "main": "test.js",
+  "description": "A static resource server that supports GZip compression, Range segmentation, and directory indexing.",
+  "main": "./lib/index.js",
   "type": "module",
   "bin": {
     "traveller": "./lib/index.js"
@@ -10,7 +10,7 @@
   "scripts": {
     "build": "tsc"
   },
-  "author": "",
+  "author": "Tracy-xu",
   "license": "MIT",
   "dependencies": {
     "crypto": "^1.0.1",
