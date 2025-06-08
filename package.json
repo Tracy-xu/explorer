@@ -1,6 +1,6 @@
 {
   "name": "@telei/explorer",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A static resource server and file manager that supports GZip compression, Range segmentation, and file directory indexing.",
   "keywords": [
     "resource",
